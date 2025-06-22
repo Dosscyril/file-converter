@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# file-converter-app
+A full-stack web app using React and Flask to convert files between Word (.doc/.docx) and PDF formats. Users can upload, convert, and download files instantly. Clean UI, fast processing, and extendable for future features like image compression and format conversion.
+>>>>>>> 08d0794537218adb26b7f084d8b51d4f35a8a5de
